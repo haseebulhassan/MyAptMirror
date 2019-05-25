@@ -1,0 +1,25 @@
+............................
+Counting Packages for BIONIC
+............................
+Removing Old Files
+Downloading new files
+............................
+Downloading BIONIC
+Downloading BIONIC-UPDATES
+Downloading BIONIC-SECURITY
+RESULTS
+..................................
+Packages in BIONIC MAIN # 6391
+Packages in BIONIC UNIVERSE # 53596
+Packages in BIONIC MULTIVERSE # 830
+Packages in BIONIC RESTRICTED # 50
+..................................
+Packages in BIONIC-UPDATES MAIN # 3839
+Packages in BIONIC-UPDATES UNIVERSE # 5405
+Packages in BIONIC-UPDATES MULTIVERSE # 31
+Packages in BIONIC-UPDATES RESTRICTED # 32
+..................................
+Packages in BIONIC-SECURITY MAIN # 2095
+Packages in BIONIC-SECURITY UNIVERSE # 724
+Packages in BIONIC-SECURITY MULTIVERSE # 13
+Packages in BIONIC-SECURITY RESTRICTED # 19
